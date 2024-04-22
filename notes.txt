@@ -1,0 +1,25 @@
+karena tidak sempat convert ke exe, jadi saya hanya bisa memberikan file jar nya saja
+
+informasi aplikasi -> {
+
+nama database = quiz
+
+kode quiz yang udah ada soal : 901
+
+lokasi file jar : KODE_PROJECT\KODE_PROJECT\dist
+
+}
+
+informasi login -> {
+
+akun admin :
+
+user : admin
+password : admin
+
+akun user :
+
+user : user
+password : user
+
+}
